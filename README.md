@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Folkenberg
 - 👀 I’m interested in Computational Physics, Nuclear Engineering & Spaceborne Optical RS(Multispectral)
-- 📫 You can reach me via my official email address: zfactor00@gmail.com
+- 📫 Official email address: zfactor00@gmail.com
 
 <!---
 folkenberg00/folkenberg00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
