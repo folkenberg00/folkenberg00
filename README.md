@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Folkenberg
-- 👀 I’m interested in Computational Physics, Nuclear Engineering & Spaceborne Optical RS(Multispectral)
 - 📫 Official email address: zfactor00@gmail.com
 
 <!---
