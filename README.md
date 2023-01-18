@@ -4,7 +4,7 @@
 <h3 align="left">Computational Physics</h3>
 <hr width="100%" color="white" size="2px"/>
 <ul>
-  <li><a href="https://github.com/folkenberg00/Simple-Orbital-Mechanical-System-Simulation-SOMSS">Wien's Displacement Law </a>- Blackbody Radiation Simulation</li>
+  <li><a href="https://github.com/folkenberg00/Blackbody-Radiation-Simulation">Wien's Displacement Law </a>- Blackbody Radiation Simulation</li>
   <li><a href="https://github.com/folkenberg00/Simple-Orbital-Mechanical-System-Simulation-SOMSS">SOMSS </a>- Simple Orbital Mechanical System Simulation</li>
 </ul>
 <h3 align="left">Technical Data Processing</h3>
