@@ -12,7 +12,9 @@
 <ul>
   <li><a href="https://github.com/folkenberg00/Induced-Radioactivity-of-Indium-115">Radioactivity </a>- Induced Radioactivity of Indium - 115</li>
 </ul>
-<h3 align="left">Computational Fluid Dynamics & Thermal Hydraulic Analysis</h3>
+<h3 align="left">Computational Fluid Dynamics</h3>
+<hr width="100%" color="white" size="2px"/>
+<h3 align="left">Thermal Hydraulic Analysis</h3>
 <hr width="100%" color="white" size="2px"/>
 <h3 align="left">Spaceborne Optical Remote Sensing</h3>
 <hr width="100%" color="white" size="2px"/>
