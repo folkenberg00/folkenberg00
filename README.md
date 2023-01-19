@@ -1,6 +1,6 @@
 <h1 align="left" >Mapping The Invisible And Protecting The Visible</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folkenberg00&label=Profile%20views&color=0e75b6&style=flat" alt="folkenberg00" /> </p>
-<p align='center'><img src="https://github.com/folkenberg00/folkenberg00/blob/main/plot.png" alt="folkenberg00" /></p>
+<p align='center'><img src="https://github.com/folkenberg00/folkenberg00/blob/main/rapid_prototyping.jpg" alt="folkenberg00" /></p>
 <h3 align="left">Computational Physics</h3>
 <hr width="100%" color="white" size="2px"/>
 <ul>
