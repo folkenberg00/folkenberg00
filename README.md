@@ -1,5 +1,5 @@
 <html>
-<h1 align="left" ><img style="float: left; width:5%; margin-right: 1%" src="https://github.com/folkenberg00/folkenberg00/blob/main/radiation.png" alt="folkenberg00" /> Mapping And Plotting The Invisible </h1>
+<h1 align="left" > Mapping And Plotting The Invisible </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folkenberg00&label=Profile%20views&color=0e75b6&style=flat" alt="folkenberg00" /> </p>
 <p align='center'><img src="https://github.com/folkenberg00/folkenberg00/blob/main/plot.png" alt="folkenberg00" /></p>
 <h3 align="left">Computational Physics</h3>
