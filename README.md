@@ -2,16 +2,16 @@
 <h1 align="left" > Mapping And Plotting The Invisible </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folkenberg00&label=Profile%20views&color=0e75b6&style=flat" alt="folkenberg00" /> </p>
 <p align='center'><img src="https://github.com/folkenberg00/folkenberg00/blob/main/plot.png" alt="folkenberg00" /></p>
+<h3 align="left">Technical Data Processing</h3>
+<hr width="100%" color="white" size="2px"/>
+<ul>
+  <li><a href="https://github.com/folkenberg00/Induced-Radioactivity-of-Indium-115">Radioactivity </a>- Induced Radioactivity of Indium - 115</li>
+</ul>
 <h3 align="left">Computational Physics</h3>
 <hr width="100%" color="white" size="2px"/>
 <ul>
   <li><a href="https://github.com/folkenberg00/Blackbody-Radiation-Simulation">Wien's Displacement Law </a>- Blackbody Radiation Simulation</li>
   <li><a href="https://github.com/folkenberg00/Simple-Orbital-Mechanical-System-Simulation-SOMSS">SOMSS </a>- Simple Orbital Mechanical System Simulation</li>
-</ul>
-<h3 align="left">Technical Data Processing</h3>
-<hr width="100%" color="white" size="2px"/>
-<ul>
-  <li><a href="https://github.com/folkenberg00/Induced-Radioactivity-of-Indium-115">Radioactivity </a>- Induced Radioactivity of Indium - 115</li>
 </ul>
 <h3 align="left">Computational Fluid Dynamics</h3>
 <hr width="100%" color="white" size="2px"/>
