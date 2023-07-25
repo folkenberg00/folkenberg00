@@ -20,7 +20,7 @@
 <h3 align="left">Spaceborne Optical Remote Sensing</h3>
 <hr width="100%" color="white" size="2px"/>
 <ul>
-  <li><a href="https://github.com/folkenberg00/INFRARED-Composite">Band Combinations </a>- Infrared Composite</li>
+  <li><a href="https://github.com/folkenberg00/INFRARED-Composite">Band Combinations </a>- Multispectral RS</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
