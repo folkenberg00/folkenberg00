@@ -23,7 +23,7 @@
   <li><a href="https://github.com/folkenberg00/Band-Combination-Infrared">Band Combinations </a>- Multispectral RS</li>
 </ul>
 <ul>
-  <li><a href="https://github.com/folkenberg00/At-Sensor-Brightness-Temperature"> At Sensor Brightness Temperature</a>- DNs to Physical Quantities</li>
+  <li><a href="https://github.com/folkenberg00/At-Sensor-Brightness-Temperature"> At Sensor Brightness Temperature</a> - DNs to Physical Quantities</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
